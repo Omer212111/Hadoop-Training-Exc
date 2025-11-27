@@ -28,3 +28,4 @@ the change will only be at the reducer because he is the ine responsible for cre
 Q2. Please submit your code in GitHub 
 ______________________________
 the codes will be submitted in diffrent commits.
+****we ran the reducer.py  on the original mapper and not on the updated one****
